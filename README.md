@@ -9,7 +9,7 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
   - [AE759](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE759) : Systems Engineering Principles
 ### Core Courses
 #### Spring 2021
-    - [AE102](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE102) : Data Analysis and Interpretation
+- [AE102](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE102) : Data Analysis and Interpretation
     - AE234 : Aircraft Propulsion
     - AE236 : Gas Dynamics
     - AE238 : Aerospace Structural Mechanics
@@ -17,7 +17,7 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
     - AE242 : Aerospace Measurements Laboratory
     - [MA214](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/MA214) : Numerical Analysis
 #### Autumn 2020
-    - [AE223](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE223) : Thermodynamics and Propulsion
+- [AE223](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE223) : Thermodynamics and Propulsion
     - AE225 : Incompressibel Fluid Mechanics
     - AE227 : Solid Mechanics
     - EE101 : Introduction to Electrical Engineering
