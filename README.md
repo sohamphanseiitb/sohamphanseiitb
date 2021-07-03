@@ -4,25 +4,32 @@ I am a third year Undergraduate in the Department of Aerospace Engineering at In
 
 ## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
+
 ### Electives
   - [SC639](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/SC639) : Mathematical Structures for Control
   - [AE759](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE759) : Systems Engineering Principles
+    - Armed forces operating in the mountainous region near the Indo-China and Indo-Pakistan borders need to continuously patrol the borders for possible infiltration and             military activity by the enemy. This is currently executed by deploying personnel at critical locations. However, this arrangement falls short of round the clock                 surveillance and 100% coverage.  Hence, there is a need to design an automated system that can ensure near 100% coverage in the critical areas and operate all the time.
+    - The project mission statement was : "To design and deploy an autonomous surveillance system for the Indian Army for operations near the Indo-China and Indo-Pakistan             Border".
+  
 ### Core Courses
 #### Spring 2021
 - [AE102](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE102) : Data Analysis and Interpretation
-- AE234 : Aircraft Propulsion
+- [AE234](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE234) : Aircraft Propulsion
 - AE236 : Gas Dynamics
 - AE238 : Aerospace Structural Mechanics
 - [AE240](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE240%20Spaceflight%20Mechanics) : Spaceflight Mechanics
 - AE242 : Aerospace Measurements Laboratory
 - [MA214](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/MA214) : Numerical Analysis
+
 #### Autumn 2020
 - [AE223](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE223) : Thermodynamics and Propulsion
-- AE225 : Incompressibel Fluid Mechanics
+- AE225 : Incompressible Fluid Mechanics
 - AE227 : Solid Mechanics
 - EE101 : Introduction to Electrical Engineering
 - HS101 : Economics
 - MA207 : Differential Equations II
+
+
 ### Course Projects
 * AE234 : Aircraft Propulsion
   - [What PRICE Speed? : A detailed review/verification of the results of the seminal paper _What PRICE Speed?_](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE234_What_PRICE_Speed%3F)
@@ -31,6 +38,7 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
 
 ## Technical Work @IIT Bombay
 ### IIT Bombay Student Satellite Program 
+
 ### Research Assistance at Department of Energy Science and Engineering
 <!---
 sohamphanseiitb/sohamphanseiitb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
