@@ -1,6 +1,10 @@
 # Hello World!
 
-I am a third year Undergraduate in the Department of Aerospace Engineering at Indian Institute of Technology Bombay. I am largely interested in System Dynamics, and Space Systems Engineering and Development. I work in the Mechanical subsystem of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. Currently I am working on a 'Star Tracker based Attitude Determination System' in the domain of Structural Design and Analysis. 
+I am a third year Undergraduate in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am largely interested in System Dynamics, and Space Systems Engineering and Development. I work in the Mechanical subsystem of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. Currently I am working on a 'Star Tracker based Attitude Determination System' in the domain of Structural Design and Analysis. 
+
+Please find my resumes for the Internship Season at IIT Bombay here:
+- [Semester 4 : 1 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%204/Soham_Phanse_19D170030_1_Page_Tech.pdf)
+- [Semester 4 : 2 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%204/Soham_Phanse_19D170030_2_Page_Tech_001.pdf)
 
 ## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
@@ -57,6 +61,13 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
 ### Research Assistance at Department of Energy Science and Engineering
 #### Undergraduate Research Award 01 
 * Worked on a Research Project titled "*A System Dynamics approach for Modelling Energy Usage*". The objective was to construct a systems theory-based methodology to analyse energy usage in both static and dynamic domains. *Interface Control Document*-based structures, *Process Flow Diagrams* and *Stock and Flow Diagrams* were used to depict the Static Energy Balance of selected Industries in the year 2017. *Causal Loop Diagrams*, *Time series Graphs* were utilised to depict the Dynamic Modelling of Energy Usage. An example of Population Dynamics of IIT Bombay Campus and Energy Usage derived from that was presented. It was conceived with discrete-time equations and some assumptions. 
+
+## General Interests
+Apart from my studies in my free time I like to read about Indian Mythology, Astronomy and I am a great fan of [Devdutt Pattnaik](https://devdutt.com/). I have read both of his excellent commentaries on Mahabharata and the Ramayana namely '_Jaya: An illustriuos retelling of the Mahabharata_' and '_Sita: An illustriuos retelling of the Ramayana_'. Currently I am reading his commentary _'My Gita'_ on _'Bhagvadgeeta'_. 
+
+This liking was developed because of a slight reading of few initials of the book '_Bhagavadgeeta: As it is'_ by H.H. Sri A.C Bhaktivedanta Swami Prabhupada.
+
+I also play guitar and harmonium in my free time. Other that that, I have read and studied about the _"Ancient Astronaut theory"_ propounded by Erick Von Daniken, author of _'Chariots of the Gods?'_. Regarding astronomy I try to read up whenever I am free and have gone through '_A Brief History of Time'_ by _'Dr. Prof. Stephen Hawking'_ which is a very nice book based on fundamentals of space, time etc. 
 <!---
 sohamphanseiitb/sohamphanseiitb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
