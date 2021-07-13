@@ -65,7 +65,7 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
 ## General Interests
 Apart from my studies in my free time I like to read about Indian Mythology, Astronomy and I am a great fan of [Devdutt Pattnaik](https://devdutt.com/). I have read both of his excellent commentaries on Mahabharata and the Ramayana namely '_Jaya: An illustriuos retelling of the Mahabharata_' and '_Sita: An illustriuos retelling of the Ramayana_'. Currently I am reading his commentary _'My Gita'_ on _'Bhagvadgeeta'_. 
 
-This liking was developed because of a slight reading of few initials of the book '_Bhagavadgeeta: As it is'_ by H.H. Sri A.C Bhaktivedanta Swami Prabhupada.
+This liking was developed because of a slight reading of few initials of the book '_Bhagavadgeeta: As it is'_ by [H.H. Sri A.C Bhaktivedanta Swami Prabhupada](https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada).
 
 I also play guitar and harmonium in my free time. Other that that, I have read and studied about the _"Ancient Astronaut theory"_ propounded by Erick Von Daniken, author of _'Chariots of the Gods?'_. Regarding astronomy I try to read up whenever I am free and have gone through '_A Brief History of Time'_ by _'Dr. Prof. Stephen Hawking'_ which is a very nice book based on fundamentals of space, time etc. 
 <!---
