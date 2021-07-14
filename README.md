@@ -62,6 +62,9 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
 #### Undergraduate Research Award 01 
 * Worked on a Research Project titled "*A System Dynamics approach for Modelling Energy Usage*". The objective was to construct a systems theory-based methodology to analyse energy usage in both static and dynamic domains. *Interface Control Document*-based structures, *Process Flow Diagrams* and *Stock and Flow Diagrams* were used to depict the Static Energy Balance of selected Industries in the year 2017. *Causal Loop Diagrams*, *Time series Graphs* were utilised to depict the Dynamic Modelling of Energy Usage. An example of Population Dynamics of IIT Bombay Campus and Energy Usage derived from that was presented. It was conceived with discrete-time equations and some assumptions. 
 
+### Finite Element Method with FEniCS
+* Working on a learning project titled "*Topology Optimization and Finite Element Methods in FEniCS*". It involves simulating PDEs on a FEM solver based on Python. It also involves shape and topology optimization problems. Check the work [here](https://github.com/sohamphanseiitb/Topology-Optimization-of-Hierarchial-Structures)
+
 ## General Interests
 Apart from my studies in my free time I like to read about Indian Mythology, Astronomy and I am a great fan of [Devdutt Pattnaik](https://devdutt.com/). I have read both of his excellent commentaries on Mahabharata and the Ramayana namely '_Jaya: An illustriuos retelling of the Mahabharata_' and '_Sita: An illustriuos retelling of the Ramayana_'. Currently I am reading his commentary _'My Gita'_ on _'Bhagvadgeeta'_. 
 
