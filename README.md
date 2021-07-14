@@ -14,6 +14,14 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
   - [AE759](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE759) : Systems Engineering Principles
     
 ### Core Courses
+
+#### Autumn 2021
+- AE308 : Control Theory
+- AE314 : Aircraft Structures Laboratory
+- AE326 : Vibrations and Structural Dynamics
+- AE330 : Aerospace Propulsion
+- AE333 : Aerodynamics
+
 #### Spring 2021
 - [AE102](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE102) : Data Analysis and Interpretation
 - [AE234](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE234) : Aircraft Propulsion
