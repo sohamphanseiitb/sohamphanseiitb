@@ -52,10 +52,10 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
   - Course Project: Analysis of Solar Eclipse Database: We try to explore _NASA's 5 Millenium Solar Eclipse Database_ with the help of statistical tools of Distribution Fitting, Sampling Distributions, Hypothesis Testing and Regression Analysis.   
 * **_AE223 : Thermodynamics and Propulsion_**
   - Scramjet Engine Analysis : 
-    - Studied about compressible fluids, total enthalpy, normal and  oblique shocks, \textbf{ram effect}, choked flows etc.
-    - Studied and analysed \textit{Intake}, \textit{Combustor}, and \textit{Nozzle} of a \textbf{Scramjet} Engine in the hypersonic flow regime
-    - Analysed and plotted relations between parameters like Thrust, Mach number, Ramp Angle of Nozzle,\\ Area Ratio, Base Expansion Factor in Python considering Quasi 1D flow and adiabatic nozzle walls
-    - Analysed effect of Nozzle Geometry on thrust and \textbf{Single Ramp Expansion Nozzle} with different values of the \textbf{Base Expansion factor} to calculate maximum value of thrust
+    - Studied about compressible fluids, total enthalpy, normal and  oblique shocks, *ram effect*, choked flows etc.
+    - Studied and analysed \textit{Intake}, \textit{Combustor}, and \textit{Nozzle} of a *Scramjet* Engine in the hypersonic flow regime
+    - Analysed and plotted relations between parameters like Thrust, Mach number, Ramp Angle of Nozzle, Area Ratio, Base Expansion Factor in Python considering Quasi 1D flow and adiabatic nozzle walls
+    - Analysed effect of Nozzle Geometry on thrust and *Single Ramp Expansion Nozzle* with different values of the *Base Expansion factor to calculate maximum value of thrust
 
 ## Technical Work @IIT Bombay
 ### IIT Bombay Student Satellite Program 
