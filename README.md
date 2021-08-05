@@ -3,8 +3,8 @@
 I am a third year Undergraduate in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am largely interested in System Dynamics, and Space Systems Engineering and Development. I work in the Mechanical subsystem of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. Currently I am working on a 'Star Tracker based Attitude Determination System' in the domain of Structural Design and Analysis. 
 
 Please find my resumes for the Internship Season at IIT Bombay here:
-- [Semester 4 : 1 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%204/Soham_Phanse_19D170030_1_Page_Tech.pdf)
-- [Semester 4 : 2 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%204/Soham_Phanse_19D170030_2_Page_Tech_001.pdf)
+- [Semester 5 : 1 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%205/Resume-Soham-Phanse-slot2.pdf)
+- [Semester 5 : 2 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%205/resume%20-soham-slot4.pdf)
 
 ## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
