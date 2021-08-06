@@ -42,16 +42,16 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
 
 
 ### Course Projects
-#### _**AE234 : Aircraft Propulsion**_
+#### AE234 : Aircraft Propulsion
   - [What PRICE Speed? : A detailed review/verification of the results of the seminal paper _What PRICE Speed?_](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE234_What_PRICE_Speed%3F)
-#### **_AE240 : Spaceflight Mechanics_**
+#### AE240 : Spaceflight Mechanics
   - [Mission Analysis of Space Shuttle STS-51-G ArabSat 1B/PAM-D Upper Stage](https://github.com/sohamphanseiitb/coursework-iitb/blob/main/AE240%20Spaceflight%20Mechanics/AE240%20Project%20Report%2019D170030.pdf) : Worked on analysing Space Shuttle Mission STS-51-G, which launched 3 Geostationary satellites, ArabSat-1B of the Arab League, Telstar of the American Telecommunication Giant AT&T, and Morelos, a Mexican communication satellite. Implemented phases like launch, climb and gravity turn maneuvers by parallel staging, to simulate the Space Shuttle based Launches. Implemented Hoffmann transfers to simulate orbital phasing of ArabSat 1B from the parking orbit to the final Geostationary orbit. 
-#### _**AE759 : Systems Engineering Principles**_
+#### AE759 : Systems Engineering Principles
    - Armed forces operating in the mountainous region near the Indo-China and Indo-Pakistan borders need to continuously patrol the borders for possible infiltration and             military activity by the enemy. This is currently executed by deploying personnel at critical locations. However, this arrangement falls short of round the clock                 surveillance and 100% coverage.  Hence, there is a need to design an automated system that can ensure near 100% coverage in the critical areas and operate all the time.
-    - The project mission statement was : "To design and deploy an autonomous surveillance system for the Indian Army for operations near the Indo-China and Indo-Pakistan             Border". The project involved Systems Engineering Processes like *Business* or *Mission Analysis* Process, *Stakeholder requirements capture and analysis*, *System requirements definition, System hierarchy, Archirecture definition process, Design Definition Process, System Analysis process, Implementation process, Integration, Verification, Transition, Validation, Operation, Maintainance, Disposal etc., Aracadia, Capella implementation.
-#### _**AE102 : Data Analysis and Interpretation**_
+   - The project mission statement was : "To design and deploy an autonomous surveillance system for the Indian Army for operations near the Indo-China and Indo-Pakistan             Border". The project involved Systems Engineering Processes like *Business* or *Mission Analysis* Process, *Stakeholder requirements capture and analysis*, *System requirements definition, System hierarchy, Archirecture definition process, Design Definition Process, System Analysis process, Implementation process, Integration, Verification, Transition, Validation, Operation, Maintainance, Disposal etc., Aracadia, Capella implementation.
+#### AE102 : Data Analysis and Interpretation
   - Course Project: Analysis of Solar Eclipse Database: We try to explore _NASA's 5 Millenium Solar Eclipse Database_ with the help of statistical tools of Distribution Fitting, Sampling Distributions, Hypothesis Testing and Regression Analysis.   
-#### **_AE223 : Thermodynamics and Propulsion_**
+#### AE223 : Thermodynamics and Propulsion
   - Scramjet Engine Analysis : 
     - Studied about compressible fluids, total enthalpy, normal and  oblique shocks, *ram effect*, choked flows etc.
     - Studied and analysed \textit{Intake}, \textit{Combustor}, and \textit{Nozzle} of a *Scramjet* Engine in the hypersonic flow regime
