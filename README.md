@@ -15,6 +15,7 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
   - [SC639](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/SC639) : Mathematical Structures for Control (Fall 2020)
   - [AE759](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE759) : Systems Engineering Principles (Spring 2021)
   - DS203 : Programming for Data Science (Fall 2021)
+  - AE755 : Optimization for Engineering Design
     
 ### Core Courses
 
