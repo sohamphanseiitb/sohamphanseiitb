@@ -4,9 +4,8 @@ I am a third year Undergraduate in the Department of Aerospace Engineering at [I
 
 **Please find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
 
-Please find my resumes for the Internship Season at IIT Bombay here:
-- [Semester 5 : 1 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%205/Resume-Soham-Phanse-slot2.pdf)
-- [Semester 5 : 2 page technical](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%205/resume%20-soham-slot4.pdf)
+Please find my latest CV here:
+- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Soham_Phanse___CV_8June.pdf)
 
 ## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
