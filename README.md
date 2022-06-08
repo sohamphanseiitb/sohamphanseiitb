@@ -1,6 +1,6 @@
 # Hello World!
 
-I am a third year Undergraduate in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am largely interested in System Dynamics, and Space Systems Engineering and Development. I work in the Mechanical subsystem of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. Currently I am working on a 'Star Tracker based Attitude Determination System' in the domain of Structural Design and Analysis. 
+I am a third year Undergraduate in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am largely interested in Space Systems Engineering, Systems thinking and Dynamics. I work in the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. **Currently I am leading the team and working as the Systems Engineer on the design of a star tracker for nano-satellites.**
 
 **Please find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
 
@@ -15,9 +15,18 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
   - [SC639](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/SC639) : Mathematical Structures for Control (Fall 2020)
   - [AE759](https://github.com/sohamphanseiitb/coursework-iitb/tree/main/AE759) : Systems Engineering Principles (Spring 2021)
   - DS203 : Programming for Data Science (Fall 2021)
-  - AE755 : Optimization for Engineering Design
+  - AE755 : Optimization for Engineering Design (Spring 2022)
+  - EE622 : Optimal Control (Spring 2022)
+  - DS303 : Machine Learning (Spring 2022)
     
 ### Core Courses
+
+#### Spring 2022
+- AE305 : Flight Dynamics
+- AE332 : Aircraft Design
+- AE312 : Aerodynamics Laboratory
+- AE316 : Propulsion Laboratory
+- AE427 : Control Systems Laboratory
 
 #### Fall 2021
 - AE308 : Control Theory
