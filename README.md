@@ -1,13 +1,12 @@
-# Hello World!
+# Namaste World!
 
-I am a third year Undergraduate in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am largely interested in Space Systems Engineering, Systems thinking and Dynamics. I work in the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. **Currently I am leading the team and working as the Systems Engineer on the design of a star tracker for nano-satellites.**
+I am a final year Undergrad in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am interested in Space Systems Engineering, Systems thinking and Dynamics and Organization Theory. I work in the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. **Currently I am leading the team and working as the Systems Engineer for the design of a star tracker for nano-satellites.**
 
-**Please find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
+**Find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
 
-Please find my latest CV here:
-- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Soham_Phanse___CV_8June.pdf)
+Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Soham_Phanse___CV_8June.pdf)
 
-## Academics @IIT Bombay
+<!--## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
 
 ### Electives
