@@ -6,6 +6,9 @@ I am a final year Undergrad in the Department of Aerospace Engineering at [India
 
 Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%207/Soham_Phanse_2pg_tech.pdf)
 
+# News
+Check out my new blog here: [Th-ink in Systems](https://sohamphanseiitb.github.io/th-ink-in-systems/about.html)
+
 <!--## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
 
