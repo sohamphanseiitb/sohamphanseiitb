@@ -4,7 +4,7 @@ I am a final year Undergrad in the Department of Aerospace Engineering at [India
 
 **Find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
 
-Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Soham_Phanse___CV_8June.pdf)
+Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%207/Soham_Phanse_2pg_tech.pdf)
 
 <!--## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
@@ -16,8 +16,16 @@ In my tenure at IIT Bombay I have gained exposure in some of the topics via cour
   - AE755 : Optimization for Engineering Design (Spring 2022)
   - EE622 : Optimal Control (Spring 2022)
   - DS303 : Machine Learning (Spring 2022)
+  - AE429 : Aircraft Design Project (Autumn 2022)
+  - IE604 : System Dynamics Modeling and Analysis (Autumn 2022)
+  - AE493 : Bachelor's thesis
     
 ### Core Courses
+
+#### Autumn 2022
+- AE407 : Modeling and Simulation
+- AE410 : Navigation and Guidance
+- HS&ES 200: Environmental Studies
 
 #### Spring 2022
 - AE305 : Flight Dynamics
