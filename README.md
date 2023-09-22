@@ -4,7 +4,7 @@ I am a first-year Graduate Student in the Department of Mechanical Engineering a
 
 **Find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
 
-Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%207/Soham_Phanse_2pg_tech.pdf)
+<!--Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%207/Soham_Phanse_2pg_tech.pdf)-->
 
 # News
 Check out my new blog here: [Th-ink in Systems](https://sohamphanseiitb.github.io/th-ink-in-systems/about.html)
