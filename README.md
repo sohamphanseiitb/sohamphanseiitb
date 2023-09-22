@@ -1,6 +1,6 @@
 # Namaste World!
 
-I am a final year Undergrad in the Department of Aerospace Engineering at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am interested in Space Systems Engineering, Systems thinking and Dynamics and Organization Theory. I work in the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) since January 2020. **Currently I am leading the team and working as the Systems Engineer for the design of a star tracker for nano-satellites.**
+I am a first-year Graduate Student in the Department of Mechanical Engineering at the University of Michigan Ann Arbor. I completed my undergraduate studies in Aerospace Engineering from [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am interested in Autonomous Systems and Robotics, Engineering Design, Systems Thinking, and Organization Theory in general. I was a part of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) till 2022, where I led a team to design of a star tracker for nano-satellites. I am currently working at the [LATTICE](https://sites.google.com/umich.edu/lattice/home) Lab under the guidance of Prof. Max Li on the optimal dispatch strategy for multi-agent drone systems for drone-based logistics. 
 
 **Find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
 
