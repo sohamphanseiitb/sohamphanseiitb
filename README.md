@@ -8,6 +8,7 @@ I am a first-year Graduate Student in the Department of Mechanical Engineering a
 
 # News
 Check out my new blog here: [Th-ink in Systems](https://sohamphanseiitb.github.io/th-ink-in-systems/about.html)
+Check out my medium.com profile and stories here: [Soham Phanse - Medium](https://medium.com/@soham.phanse)
 
 <!--## Academics @IIT Bombay
 In my tenure at IIT Bombay I have gained exposure in some of the topics via courses like : 
