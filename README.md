@@ -1,10 +1,8 @@
 # Namaste World!
 
-I am a first-year Graduate Student in the Department of Mechanical Engineering at the University of Michigan Ann Arbor. I completed my undergraduate studies in Aerospace Engineering from [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am interested in Autonomous Systems and Robotics, Engineering Design, Systems Thinking, and Organization Theory in general. I was a part of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) till 2022, where I led a team to design of a star tracker for nano-satellites. I am currently working at the [LATTICE](https://sites.google.com/umich.edu/lattice/home) Lab under the guidance of Prof. Max Li on the optimal dispatch strategy for multi-agent drone systems for drone-based logistics. 
+I currently work at Applied Materials on developing software for improving yield of wafer processing in Appli'ed equipment in all over the world. Before this, I completed my Masters in Mechanical Engineering at the University of Michigan Ann Arbor. I completed my undergraduate studies in Aerospace Engineering from [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I am interested in Autonomous Systems and Robotics, Engineering Design, Systems Thinking, and Organization Theory in general. I was a part of the [Student Satellite Program of IIT Bombay](http://iitbssp.ml/) till 2022, where I led a team to design of a star tracker for nano-satellites. At Michigan, I worked on multi-agent autonomy at the [LATTICE](https://sites.google.com/umich.edu/lattice/home) Lab under the guidance of Prof. Max Li, interned at Magna to develop autonomous driving algorithms, and delved in control systems and robotics in depth.
 
-**Find more about me on my [Personal Webpage](https://sites.google.com/iitb.ac.in/soham-phanse/home)**
-
-<!--Find my latest CV here:- [Soham Phanse - CV](https://github.com/sohamphanseiitb/sohamphanseiitb/blob/main/Resumes/Sem%207/Soham_Phanse_2pg_tech.pdf)-->
+**Find more about me on my [Personal Webpage](https://sites.google.com/view/soham-phanse/home)**
 
 # News
 Check out my new blog here: [Th-ink in Systems](https://sohamphanseiitb.github.io/th-ink-in-systems/about.html)
@@ -117,11 +115,8 @@ _Under guidance of [Prof. Amuthan Ramabathiran](https://amuthan.github.io/webpag
 <!---* Working on a learning project titled "*Topology Optimization and Finite Element Methods in FEniCS*". It involves simulating PDEs on a FEM solver based on Python. It also involves shape and topology optimization problems. Check the work [here](https://github.com/sohamphanseiitb/Topology-Optimization-of-Hierarchial-Structures)--->
 
 ## General Interests
-Apart from my studies in my free time I like to read about Indian Mythology, Astronomy and I am a great fan of [Devdutt Pattnaik](https://devdutt.com/). I have read both of his excellent commentaries on Mahabharata and the Ramayana namely '_Jaya: An illustriuos retelling of the Mahabharata_' and '_Sita: An illustriuos retelling of the Ramayana_'. Currently I am reading his commentary _'My Gita'_ on _'Bhagvadgeeta'_. 
+I am deeply interested in music. I sing, write and play a lot of instruments, to the likes of Guitar, ukulele, harmonium and electronic drums! 
 
-This liking was developed because of a slight reading of few initials of the book '_Bhagavadgeeta: As it is'_ by [H.H. Sri A.C Bhaktivedanta Swami Prabhupada](https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada).
-
-I also play guitar and harmonium in my free time. Other that that, I have read and studied about the _"Ancient Astronaut theory"_ propounded by Erick Von Daniken, author of _'Chariots of the Gods?'_. Regarding astronomy I try to read up whenever I am free and have gone through '_A Brief History of Time'_ by _'Dr. Prof. Stephen Hawking'_ which is a very nice book based on fundamentals of space, time etc. 
 <!---
 sohamphanseiitb/sohamphanseiitb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
